@@ -8,7 +8,7 @@ does the reverse process and turns the final vector into  a wav file.
 
 The last part, creates a white sound and then performs the same convolution methos as is the previous two parts.
 
-MyConvolve: 
+MyConvolve function: 
 This is the function that is included in every part of the script since it's the once that convolutes the two given vectors each time. The code is based on the 
 following formula : 
 ![image](https://user-images.githubusercontent.com/118728873/212888745-0dc643bd-e42d-40b6-ab62-f40a75a17e8f.png)
